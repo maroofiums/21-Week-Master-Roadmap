@@ -1,4 +1,4 @@
-# **21-Week Complete Master Roadmap**
+# **24-Week Complete Master Roadmap**
 
 ---
 
@@ -21,24 +21,64 @@
 
 ---
 
-## **Week 2: Math & Stats for ML**
+## **Week 2: Linear Algebra & Vectors**
 
-**Goal:** Build math foundation.
+**Goal:** Build a strong linear algebra foundation for ML/DL.
 **Topics:**
 
-* Linear algebra: vectors, matrices, dot product
-* Probability basics & Bayes theorem
-* Calculus: derivatives & gradients
-* Statistical distributions: normal, uniform, binomial
+* Scalars, vectors, matrices, tensors
+* Matrix operations: addition, multiplication, transpose, inverse, determinant
+* Eigenvalues & eigenvectors
+* Dot product, cross product, norms, projections
+* Tensor basics in **PyTorch & TensorFlow**
 
 **Practice/Projects:**
 
-* Linear regression from scratch
-* Probability simulations in Python
+* Implement vector operations in Python
+* Matrix multiplication & inversion from scratch
+* Visualize vector projections and eigenvectors
 
 ---
 
-## **Week 3: Machine Learning Basics**
+## **Week 3: Probability & Statistics**
+
+**Goal:** Understand probability and statistics for ML reasoning.
+**Topics:**
+
+* Probability rules: conditional probability, Bayes theorem
+* Discrete & continuous distributions (Binomial, Poisson, Normal)
+* Expectation, variance, covariance, correlation
+* Sampling & central limit theorem
+* Statistical tests: t-test, chi-square
+
+**Practice/Projects:**
+
+* Simulate probabilities with Python (coin toss, dice)
+* Compute correlation & covariance on sample datasets
+* Visualize distributions using Matplotlib/Seaborn
+
+---
+
+## **Week 4: Calculus & Optimization**
+
+**Goal:** Understand derivatives and optimization for ML/DL.
+**Topics:**
+
+* Derivatives & gradients (scalar, vector, multivariate)
+* Partial derivatives & chain rule
+* Gradient descent & variants (SGD, Adam)
+* Jacobian & Hessian basics
+* Application in loss functions (MSE, Cross-Entropy)
+
+**Practice/Projects:**
+
+* Derivative and gradient calculations from scratch
+* Implement gradient descent for linear regression
+* Visualize loss surfaces and gradient steps
+
+---
+
+## **Week 5: Machine Learning Basics**
 
 **Goal:** Supervised learning & metrics.
 **Topics:**
@@ -55,7 +95,7 @@
 
 ---
 
-## **Week 4: Advanced ML**
+## **Week 6: Advanced ML**
 
 **Goal:** Ensemble methods & evaluation.
 **Topics:**
@@ -72,7 +112,7 @@
 
 ---
 
-## **Week 5: ML Pipelines**
+## **Week 7: ML Pipelines**
 
 **Goal:** Production-ready pipelines.
 **Topics:**
@@ -92,7 +132,29 @@
 
 ---
 
-## **Week 6: Deep Learning Foundations (PyTorch)**
+## **Week 8: FastAPI & Backend for ML/DL**
+
+**Goal:** Learn backend integration and API development for ML/DL projects.
+**Topics:**
+
+* FastAPI fundamentals: routes, request/response models, path & query parameters
+* Pydantic models for data validation
+* CRUD APIs
+* Integrating ML/DL models with FastAPI
+* Testing APIs & handling exceptions
+* Deployment basics: Uvicorn, Docker
+
+**Practice/Projects:**
+
+* Build a **simple ML model API** (e.g., Titanic survival prediction)
+* CRUD API to serve ML predictions
+* Dockerize and test API locally
+
+**Tip:** Treat FastAPI as the **bridge between your models and real-world applications**—this will make your projects production-ready.
+
+---
+
+## **Week 9: Deep Learning Foundations (PyTorch)**
 
 **Goal:** Neural networks basics.
 **Topics:**
@@ -108,7 +170,7 @@
 
 ---
 
-## **Week 7: CNN Basics**
+## **Week 10: CNN Basics**
 
 **Goal:** Image modeling with CNNs.
 **Topics:**
@@ -123,7 +185,7 @@
 
 ---
 
-## **Week 8: Advanced CNN & Pretrained Models**
+## **Week 11: Advanced CNN & Pretrained Models**
 
 **Goal:** Transfer learning & advanced architectures.
 **Topics:**
@@ -140,7 +202,7 @@
 
 ---
 
-## **Week 9: Computer Vision Basics (OpenCV)**
+## **Week 12: Computer Vision Basics (OpenCV)**
 
 **Goal:** Image preprocessing & feature extraction.
 **Topics:**
@@ -157,7 +219,7 @@
 
 ---
 
-## **Week 10: Computer Vision Advanced**
+## **Week 13: Computer Vision Advanced**
 
 **Goal:** Object detection & video analytics.
 **Topics:**
@@ -174,7 +236,7 @@
 
 ---
 
-## **Week 11: NLP Fundamentals**
+## **Week 14: NLP Fundamentals**
 
 **Goal:** Classic NLP preprocessing & text classification.
 **Topics:**
@@ -191,7 +253,7 @@
 
 ---
 
-## **Week 12: NLP Advanced**
+## **Week 15: NLP Advanced**
 
 **Goal:** Transformers & embeddings.
 **Topics:**
@@ -208,7 +270,7 @@
 
 ---
 
-## **Week 13: Time Series Forecasting (Classical)**
+## **Week 16: Time Series Forecasting (Classical)**
 
 **Goal:** ARIMA/SARIMA & basics.
 **Topics:**
@@ -225,7 +287,7 @@
 
 ---
 
-## **Week 14: Time Series Forecasting (ML/DL)**
+## **Week 17: Time Series Forecasting (ML/DL)**
 
 **Goal:** LSTM & GRU networks.
 **Topics:**
@@ -242,7 +304,7 @@
 
 ---
 
-## **Week 15: Databases & Integration**
+## **Week 18: Databases & Integration**
 
 **Goal:** Store, query, and connect ML/DL pipelines.
 **Topics:**
@@ -259,7 +321,7 @@
 
 ---
 
-## **Week 16: Generative AI Basics**
+## **Week 19: Generative AI Basics**
 
 **Goal:** HuggingFace text generation.
 **Topics:**
@@ -275,7 +337,7 @@
 
 ---
 
-## **Week 17: Generative AI Advanced**
+## **Week 20: Generative AI Advanced**
 
 **Goal:** Multi-modal generation.
 **Topics:**
@@ -291,7 +353,7 @@
 
 ---
 
-## **Week 18: Deep Learning Advanced Topics**
+## **Week 21: Deep Learning Advanced Topics**
 
 **Goal:** Modern DL architectures.
 **Topics:**
@@ -308,7 +370,7 @@
 
 ---
 
-## **Week 19: End-to-End ML/DL Capstone**
+## **Week 22: End-to-End ML/DL Capstone**
 
 **Goal:** Full workflow projects.
 **Project Ideas:**
@@ -320,7 +382,7 @@
 
 ---
 
-## **Week 20: Generative AI Capstone**
+## **Week 23: Generative AI Capstone**
 
 **Goal:** Showcase GenAI skills.
 **Project Ideas:**
@@ -331,7 +393,7 @@
 
 ---
 
-## **Week 21: Portfolio & Deployment**
+## **Week 24: Portfolio & Deployment**
 
 **Goal:** Polish projects & deploy.
 **Topics:**
@@ -350,5 +412,8 @@
 * ML pipelines = production-readiness; don’t skip them.
 * CV = preprocessing + DL combination.
 * GenAI = pipelines + prompt engineering.
+* FastAPI is critical for **deploying ML/DL projects professionally**.
 * Document every project; GitHub clarity = key for jobs.
 * One **small polished project per domain** is better than many unfinished ones.
+
+---
