@@ -1,10 +1,10 @@
-# 🔵 Week 3 — Probability & Statistics
+# 🔵 Week 3 - Probability & Statistics
 
 Goal: Think probabilistically like an ML scientist.
 
 ---
 
-# 🟢 Day 1 — Probability Foundations
+# 🟢 Day 1 - Probability Foundations
 
 ### 🎯 Goal:
 
@@ -37,7 +37,7 @@ Simulate coin toss and dice probability using NumPy.
 
 ---
 
-# 🟢 Day 2 — Conditional Probability & Bayes Theorem
+# 🟢 Day 2 - Conditional Probability & Bayes Theorem
 
 ### 🎯 Goal:
 
@@ -68,7 +68,7 @@ This day is critical for ML classification.
 
 ---
 
-# 🟢 Day 3 — Random Variables & Distributions
+# 🟢 Day 3 - Random Variables & Distributions
 
 ### 🎯 Goal:
 
@@ -104,7 +104,7 @@ Generate and visualize:
 
 ---
 
-# 🟢 Day 4 — Expectation, Variance, Covariance, Correlation
+# 🟢 Day 4 - Expectation, Variance, Covariance, Correlation
 
 ### 🎯 Goal:
 
@@ -139,7 +139,7 @@ This day directly connects to PCA (Week 2 link).
 
 ---
 
-# 🟢 Day 5 — Sampling & Central Limit Theorem
+# 🟢 Day 5 - Sampling & Central Limit Theorem
 
 ### 🎯 Goal:
 
@@ -174,7 +174,7 @@ This is a “wow” moment if done properly.
 
 ---
 
-# 🟢 Day 6 — Statistical Tests (Hypothesis Testing)
+# 🟢 Day 6 - Statistical Tests (Hypothesis Testing)
 
 ### 🎯 Goal:
 
@@ -208,7 +208,7 @@ This is useful in:
 
 ---
 
-# 🟢 Day 7 — Full Revision + Applied ML Thinking
+# 🟢 Day 7 - Full Revision + Applied ML Thinking
 
 ### 🎯 Goal:
 
